@@ -4,12 +4,19 @@
 
 NOTE: This is a very old project. Made public on request of external parties. 
 
+### Videos:
+
+Watch some videos here: 
+
+* https://www.youtube.com/watch?v=EmC62DCg0BA
+
+* https://www.youtube.com/watch?v=dV8D17dDv4Y
+
 ## Booting from CD: 
 
 * Burn CT-BootDisk.iso image to a CD
 * Activate CD booting option in your BIOS
 * Boot from CD
-
 
 ## Booting from Floppy disk: 
 
